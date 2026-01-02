@@ -1,0 +1,5 @@
+{
+  "name": "NEIS Record AI Assistant",
+  "description": "An AI-powered application for elementary school teachers to generate unique, observation-based school life records for NEIS, including behavior opinions, creative activities, and subject progress.",
+  "requestFramePermissions": []
+}
